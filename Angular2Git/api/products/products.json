@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Wireless Mouse",
+        "productCode": "WLM-0011",
+        "releaseDate": "March 19, 2016",
+        "description": "Wireless Mouse",
+        "price": 2.95,
+        "starRating": 3.2,
+        "imageUrl": "./app/assets/images/mouse.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Wireless Keyboard",
+        "productCode": "WLK-0023",
+        "releaseDate": "March 18, 2016",
+        "description": "Wireless Keyboard Win10 compatable",
+        "price": 5.99,
+        "starRating": 4.2,
+        "imageUrl": "./app/assets/images/keyboard.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Cabinate",
+        "productCode": "CAB-0048",
+        "releaseDate": "May 21, 2016",
+        "description": "Computer Cabinate",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "./app/assets/images/cpu.png"
+    },
+    {
+        "productId": 8,
+        "productName": "Monitor",
+        "productCode": "VDU-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "15-inch TFT monitor",
+        "price": 15.55,
+        "starRating": 3.7,
+        "imageUrl": "./app/assets/images/monitor.png"
+    },
+    {
+        "productId": 10,
+        "productName": "Processor",
+        "productCode": "PRC-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Intel I5 Processor 5th gen",
+        "price": 135.95,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/Processor.png"
+    }
+]
